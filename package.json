@@ -1,0 +1,23 @@
+{
+  "name": "foodiez",
+  "version": "0.1.0",
+  "description": "A react app for food ordering",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "author": "Yogesh Kanwade",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions"
+  ]
+}
